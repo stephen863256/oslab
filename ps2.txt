@@ -1,0 +1,17 @@
+busybox-1.32.1
+busybox-1.32.1.tar.bz2
+file1.txt
+file.txt
+initramfs-busybox-x64.cpio.gz
+Lab2.c
+linux-4.9.263
+linux-4.9.263.tar.xz
+linux-4.9.263.tar.xz.1
+ps2.txt
+ps,txt
+ps.txt
+shell
+shell1
+shell2
+test1
+wget-log
